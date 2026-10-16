@@ -2,7 +2,7 @@
 
 This repository is for learning and exploring CI/CD deeply with GitHub Actions and related DevOps practices.
 
-## Learning Path
+###Path
 
 1. GitHub Actions basics (workflows, events, jobs, steps)
 2. Intermediate automation (reusable workflows, matrix builds, environment variables, secrets)
